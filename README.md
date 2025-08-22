@@ -5,6 +5,7 @@ It allows users to explore movies, select shows, book seats, and manage their bo
 The system also provides a secure **Admin Panel** for managing cinemas, movies, and viewing booking details.  
 
 ---
+Project Link : https://next-show-ten.vercel.app/
 
 # 🚀 How the Project Works  
 
