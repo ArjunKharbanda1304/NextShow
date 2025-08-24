@@ -99,6 +99,20 @@ Only authorized users can access it using the admin password.
 
 ---
 
+# 🛠️ SetUp
+
+- 1.Install all the necessary file
+  
+npm install react@18 react-dom@18
+
+- 2. Install npm files
+
+npm install
+
+- 3. Run the file
+
+npm run dev
+
 # 📌 Summary  
 
 NextShow is a fully functional movie booking system that demonstrates:  
